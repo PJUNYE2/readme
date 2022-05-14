@@ -49,9 +49,9 @@
 ## 演示
 
 >#### 播放
-![播放](http://1.ggxc.xyz:5244/d/My%20files/Local/Play.gif?sign=cf61e55aefd0dacb)</br>
+![播放](https://cdn.jsdelivr.net/gh/PJUNYE2/readme@main/Play.gif)
 >#### 下载
-![下载](http://1.ggxc.xyz:5244/d/My%20files/Local/Download.gif?sign=244ed3de5a48cb89)
+![下载](https://cdn.jsdelivr.net/gh/PJUNYE2/readme@main/Download.gif)
 
 ## 鸣谢
 - [Alist](https://github.com/Xhofe/alist)
@@ -68,13 +68,13 @@
 - 您必须在下载后的24个小时之内，从您的电脑中彻底删除上述内容；
 - 如果您喜欢该网站的资源，请支持正版，得到更好的正版服务；
 - 本站所有资源均来自网络转载，版权归原作者和公司所有；
-- 如有侵权，请第一时间通过[邮件](p1246509603@gmail.com)与我联系，会及时配合处理。
+- 如有侵权，请第一时间通过[邮件](owner@yongshaowang.cf)与我联系，会及时配合处理。
 
 二○○二年一月一日《计算机软件保护条例》第十七条规定：为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬！鉴于此，也希望大家按此说明研究软件！
 
 ## 🥤请我喝杯奶茶
-<img width="512" height="288" src="http://1.ggxc.xyz:5244/d/My%20files/Local/pay.png?sign=70c908c5045fbbad"/>
+<img width="512" height="288" src="https://cdn.jsdelivr.net/gh/PJUNYE2/readme@main/pay.png"/>
 
 ---
 ## 求资源 · 反馈 · 建议
-> [@Email](p1246509603@gmail.com) · [@Telegram](https://t.me/yongshaowang)
+> [@Email](owner@yongshaowang.cf) · [@Telegram](https://t.me/yongshaowang)
